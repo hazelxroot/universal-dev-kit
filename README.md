@@ -1,6 +1,6 @@
-# AppLaunchKit
+# Universal Dev Kit
 
-AppLaunchKit is a powerful and flexible starter kit designed for building universal applications. It combines Expo for mobile development and Next.js for web applications, providing a unified codebase for apps that run seamlessly on iOS, Android, and the web.
+This provides a unified codebase for apps that run seamlessly on iOS, Android, and the web.
 
 ## Key Features
 
@@ -23,10 +23,10 @@ AppLaunchKit provides a comprehensive foundation for your project, focusing on c
 
 ### ExpressJS Server
 
-- Navigate to the `backend/express-js` directory from the root of the project.
+- Navigate to the `backend/express` directory from the root of the project.
 
   ```bash
-  cd backend/express-js
+  cd backend/express
   ```
 
 - Start your Custom ExpressJS server.
