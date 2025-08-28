@@ -1,6 +1,6 @@
 # Universal Dev Kit
 
-This provides a unified codebase for apps that run seamlessly on iOS, Android, and the web.
+This repository provides a unified codebase for apps that run seamlessly on iOS, Android, and the web.
 
 ## Key Features
 
