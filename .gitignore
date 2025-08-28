@@ -1,0 +1,101 @@
+# macOS (recursive)
+**/.DS_Store
+
+# Firebase
+backend/firebase/functions/*firebase-adminsdk-*.json
+
+# Environment variables (recursive)
+**/.env
+**/.env*
+**/.env*.local
+
+# Logs (recursive)
+**/logs
+**/*.log
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+**/firebase-debug.log*
+**/firebase-debug.*.log*
+**/*storybook.log
+
+# Dependencies (recursive)
+**/node_modules/
+**/.pnp
+**/.pnp.js
+**/.yarn/
+
+# Build outputs (recursive)
+**/dist/
+**/build/
+**/.next/
+**/out/
+**/web-build/
+
+# Runtime data (recursive)
+**/pids
+**/*.pid
+**/*.seed
+**/*.pid.lock
+
+# Directory for instrumented libs (recursive)
+**/lib-cov
+
+# Coverage directory (recursive)
+**/coverage
+**/.nyc_output
+
+# Grunt intermediate storage (recursive)
+**/.grunt
+
+# Bower dependency directory (recursive)
+**/bower_components
+
+# node-waf configuration (recursive)
+**/.lock-wscript
+
+# Compiled binary addons (recursive)
+**/build/Release
+
+# Optional npm cache directory (recursive)
+**/.npm
+
+# Optional eslint cache (recursive)
+**/.eslintcache
+
+# Optional REPL history (recursive)
+**/.node_repl_history
+
+# Output of 'npm pack' (recursive)
+**/*.tgz
+
+# Yarn Integrity file (recursive)
+**/.yarn-integrity
+
+# Firebase (recursive)
+**/.firebase/
+**/.dataconnect
+
+# Expo (recursive)
+**/.expo/
+**/expo-env.d.ts
+
+# React Native / Mobile (recursive)
+**/*.jks
+**/*.p8
+**/*.p12
+**/*.key
+**/*.mobileprovision
+**/*.orig.*
+**/ios/
+**/android/
+
+# Next.js (recursive)
+**/next-env.d.ts
+**/*.tsbuildinfo
+
+# Vercel (recursive)
+**/.vercel
+
+# Misc (recursive)
+**/*.pem

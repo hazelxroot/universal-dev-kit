@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394338138379",
+    "project_id": "applaunchkit-test",
+    "storage_bucket": "applaunchkit-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394338138379:android:59ffbae75cdf629df04a0e",
+        "android_client_info": {
+          "package_name": "com.applaunchkit.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394338138379-5augjdhj2rvoi590f7i7nl8pdh5bj3nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk_MZROfvaV5r1-2hVmp-GEIKTajmvj8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394338138379-5augjdhj2rvoi590f7i7nl8pdh5bj3nm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
